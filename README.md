@@ -2,13 +2,13 @@
 
 
 
-Tambula Lottery Game Ticket System
+<h3>Tambula Lottery Game Ticket System</h3>
 
-Introduction:
+<h3>Introduction:</h3>
 Tambula Lottery Game Ticket System is an application that allows users to purchase and view their lottery game tickets online. This application is built using the Node.js runtime environment and the Express.js framework for building web applications. It also uses MongoDB, a NoSQL document-oriented database for storing and retrieving data.
 
 
-Prerequisites:
+<h3>Prerequisites:</h3>
 
 
 Clone the project from the Github repository.
