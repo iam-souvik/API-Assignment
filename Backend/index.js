@@ -16,7 +16,7 @@ app.use(express.json());
 
 
 app.use("/user",UserRouter)
-// app.use("/userTicket",TicketRouter)
+app.use("/userTicket",TicketRouter)
 
 
 
