@@ -26,10 +26,10 @@ Run the project using 'npm start' command.
 <h3>Ticket Viewing</h3> - Users can view their purchased tickets by specifying the page number and the limit of tickets they want to view. The tickets are retrieved from the database and sent in the response.
 Endpoints:
 
-</p>POST /user/signup - Create a new user.</p>
-</p>POST /user/login - Authenticate the user and generate a JWT.</p>
-</p>POST /userTicket/tickets - Purchase Tambula game tickets.</p>
-</p>GET /userTicket/findTickets - Retrieve Tambula game tickets purchased by the user.</p>
+</h4>POST /user/signup - Create a new user.</h4>
+</h4>POST /user/login - Authenticate the user and generate a JWT.</h4>
+</h4>POST /userTicket/tickets - Purchase Tambula game tickets.</h4>
+</h4>GET /userTicket/findTickets - Retrieve Tambula game tickets purchased by the user.</h4>
 
 <h3>Dependencies:</h3>
 
