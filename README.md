@@ -2,22 +2,22 @@
 
 
 
-<h3>Tambula Lottery Game Ticket System</h3>
+<h2>Tambula Lottery Game Ticket System</h2>
 
 <h3>Introduction:</h3>
-Tambula Lottery Game Ticket System is an application that allows users to purchase and view their lottery game tickets online. This application is built using the Node.js runtime environment and the Express.js framework for building web applications. It also uses MongoDB, a NoSQL document-oriented database for storing and retrieving data.
+</p>Tambula Lottery Game Ticket System is an application that allows users to purchase and view their lottery game tickets online. This application is built using the Node.js runtime environment and the Express.js framework for building web applications. It also uses MongoDB, a NoSQL document-oriented database for storing and retrieving data.</p>
 
 
 <h3>Prerequisites:</h3>
 
 
-Clone the project from the Github repository.
-Run 'npm install' to install all the required dependencies.
-Create a .env file in the root directory of the project and add the following environment variables:
+</p>Clone the project from the Github repository.</p>
+</p>Run 'npm install' to install all the required dependencies.</p>
+</p>Create a .env file in the root directory of the project and add the following environment variables:</p>
 JWT_SECRET=your_secret_key
 MONGO_URI=your_mongodb_uri
 Run the project using 'npm start' command.
-Features:
+</h2>Features:</h2>
 
 <h3>User Authentication</h3> - Users can sign up and log in to the application using their username and password. The passwords are hashed using bcrypt before storing in the database.
 
